@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "STOCKX_URL/1.0.0": {
+        "runtime": {
+          "STOCKX_URL.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "STOCKX_URL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

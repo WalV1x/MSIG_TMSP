@@ -1,0 +1,533 @@
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.AssemblyReference.cache
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.AssemblyInfoInputs.cache
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.AssemblyInfo.cs
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.CoreCompileInputs.cache
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.exe
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.deps.json
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.runtimeconfig.json
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.pdb
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\refint\TMSP PROJET.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.pdb
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.genruntimeconfig.cache
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\ref\TMSP PROJET.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.exe
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.deps.json
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.runtimeconfig.json
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.pdb
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.GeneratedMSBuildEditorConfig.editorconfig
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.AssemblyInfoInputs.cache
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.AssemblyInfo.cs
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.CoreCompileInputs.cache
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\refint\TMSP PROJET.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.pdb
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.genruntimeconfig.cache
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\ref\TMSP PROJET.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Goat.Net.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.CopyComplete
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Goat.Net.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.AssemblyReference.cache
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.CopyComplete
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.exe
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.deps.json
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.runtimeconfig.json
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.pdb
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Goat.Net.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.AssemblyReference.cache
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.AssemblyInfoInputs.cache
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.AssemblyInfo.cs
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.CoreCompileInputs.cache
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.CopyComplete
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\refint\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.pdb
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.genruntimeconfig.cache
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\obj\Debug\net6.0\ref\TMSP PROJET.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Azure.Core.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Azure.Identity.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Drawing.Common.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Memory.Data.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Runtime.Caching.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Security.Permissions.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Windows.Extensions.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Azure.Core.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Azure.Identity.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Memory.Data.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pt50cuy\Desktop\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.exe
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.deps.json
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.runtimeconfig.json
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\TMSP PROJET.pdb
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Goat.Net.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.AssemblyReference.cache
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.AssemblyInfoInputs.cache
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.AssemblyInfo.cs
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.CoreCompileInputs.cache
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.csproj.CopyComplete
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\refint\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.pdb
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\TMSP PROJET.genruntimeconfig.cache
+C:\Users\pt50cuy\Desktop\PROGRAMMATION\0. TMSP\TMSP PROJET\obj\Debug\net6.0\ref\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.exe
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.deps.json
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.runtimeconfig.json
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.pdb
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Goat.Net.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.csproj.AssemblyReference.cache
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.AssemblyInfoInputs.cache
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.AssemblyInfo.cs
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.csproj.CoreCompileInputs.cache
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.csproj.CopyComplete
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\refint\TMSP PROJET.dll
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.pdb
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.genruntimeconfig.cache
+C:\Users\pt50cuy\Desktop\HTML_PHP\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\ref\TMSP PROJET.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.exe
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.deps.json
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.runtimeconfig.json
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.pdb
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Azure.Core.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Azure.Identity.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Goat.Net.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.csproj.AssemblyReference.cache
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.GeneratedMSBuildEditorConfig.editorconfig
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.AssemblyInfoInputs.cache
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.AssemblyInfo.cs
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.csproj.CoreCompileInputs.cache
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.csproj.CopyComplete
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\refint\TMSP PROJET.dll
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.pdb
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.genruntimeconfig.cache
+D:\MSIG\PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\ref\TMSP PROJET.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.exe
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.deps.json
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.runtimeconfig.json
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\TMSP PROJET.pdb
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Azure.Core.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Azure.Identity.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Goat.Net.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Data.Sqlite.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.batteries_v2.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.core.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\SQLitePCLRaw.provider.e_sqlite3.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Memory.Data.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-arm\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-armel\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-mips64\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-s390x\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-x64\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\linux-x86\native\libe_sqlite3.so
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm\native\e_sqlite3.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-arm64\native\e_sqlite3.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x64\native\e_sqlite3.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win-x86\native\e_sqlite3.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.csproj.AssemblyReference.cache
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.GeneratedMSBuildEditorConfig.editorconfig
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.AssemblyInfoInputs.cache
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.AssemblyInfo.cs
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.csproj.CoreCompileInputs.cache
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.sourcelink.json
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PRO.E9759F9C.Up2Date
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\refint\TMSP PROJET.dll
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.pdb
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\TMSP PROJET.genruntimeconfig.cache
+D:\3. ECOLE\MSIG\2. PROGRAMMATION\0. TMSP\TMSP PROJET\src\csharp\obj\Debug\net6.0\ref\TMSP PROJET.dll

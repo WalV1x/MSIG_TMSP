@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pt50cuy\\Desktop\\PHP\\SCAN\\3. SCAN-WEBSITE\\2. WETHENEW\\WETHENEW_ALL\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55EA880E-EFED-421B-BFDC-51E3FF241266}|WETHENEW_ALL.csproj|c:\\users\\pt50cuy\\desktop\\php\\scan\\3. scan-website\\2. wethenew\\wethenew_all\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55EA880E-EFED-421B-BFDC-51E3FF241266}|WETHENEW_ALL.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pt50cuy\\Desktop\\PHP\\SCAN\\3. SCAN-WEBSITE\\2. WETHENEW\\WETHENEW_ALL\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pt50cuy\\Desktop\\PHP\\SCAN\\3. SCAN-WEBSITE\\2. WETHENEW\\WETHENEW_ALL\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAUwF4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-07T08:57:06.527Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
